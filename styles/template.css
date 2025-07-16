@@ -41,11 +41,36 @@ nav ul li{
     text-align: center;
 
 }
-body{
+.header{
     background-image: url(../images/Hero-bg.png);
+
 }
 .btn-primary{
 
 display: block;
 margin: auto;
 }
+ /* section style */
+ .section-title{
+    font-size: 35px;
+    font-weight: bold;
+    color:black;
+
+ }
+ .section-description{
+    font-size: 18px;
+    color: #252432;
+
+ }
+ .action-pic{
+    width:380px;
+    border-radius: 50px;
+ }
+ .action{
+    display: flex;
+    margin: 30px 35px 0 35px;
+    justify-content: space-between;
+ }
+ .action-section{
+    width: 580px;
+ }
