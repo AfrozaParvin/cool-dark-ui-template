@@ -73,4 +73,27 @@ margin: auto;
  }
  .action-section{
     width: 580px;
+
  }
+ /* main styles */
+ main{
+    max-width: 1140px;
+    margin: 0 auto;
+ }
+ /* productive user section */
+.numbers{
+    font-size: 50px;;
+    justify-content: space-around;
+    color: #4E47FF;
+    display: flex;
+}
+.productive-user{
+    background-color:skyblue;
+    border-radius: 20px;
+    padding: 10px 20px;
+    text-align: center;
+    margin-top:20px;
+}
+.item{
+   color: #252432; 
+}
