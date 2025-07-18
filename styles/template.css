@@ -135,5 +135,34 @@ margin: auto;
     justify-content: center;
     height: 100%;
 }
+/* get in touch section */
 
-
+.touch-section{
+    margin:20px;
+    display: flex;
+    gap: 100px;
+    justify-content: space-between;
+}
+ .touch-section input[type="text"],.touch-section input[type="email"]{
+    display: block;
+    border-radius: 5px;
+    height: 64px;
+    background-color: #fff;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    padding: 10px 20px;
+ } 
+.touch-section{
+    color: #252432;
+}
+.touch-title{
+    font-size: 45px;
+    margin-top: 180px;
+}
+button:hover{
+    color: #4E47FF;
+}
+.btn-primary:hover{
+    color: #4E47FF;
+}
