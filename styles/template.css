@@ -59,7 +59,8 @@ margin: auto;
  }
  .section-description{
     font-size: 18px;
-    color: #252432;
+    color:lightslategray;
+
 
  }
  .action-pic{
@@ -165,4 +166,32 @@ button:hover{
 }
 .btn-primary:hover{
     color: #4E47FF;
+}
+/* footer section */
+.logo{
+    text-align: center;
+    font-size: 100px;
+    font-weight:900;
+    color: #4E47FF;
+}
+.footer-para{
+    text-align: center;
+    color:lightslategray;
+}
+footer ul li{
+    list-style: none;
+    margin-right: 50px;
+}
+ul li a{
+    text-decoration: none;
+    text-align: center;
+    margin-left: 150px;
+}
+.code{
+color:lightslategray;
+
+
+}
+footer ul{
+    display: flex;
 }
